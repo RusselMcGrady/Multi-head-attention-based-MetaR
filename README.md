@@ -31,6 +31,7 @@ For training and testing, here is an example for queick start,
 # NELL-One, 1-shot, BG:Pre-Train
 python main.py --dataset NELL-One --data_path ./NELL --few 1 --data_form Pre-Train --prefix nellone_1shot_pretrain --device 0
 ```
+trainer_KGAT.py is the reimplementation of KGAT (https://arxiv.org/abs/1905.07854) under low-resource conditions.
 
 Here are explanations of some important args,
 
