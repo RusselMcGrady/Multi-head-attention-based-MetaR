@@ -47,7 +47,7 @@ Here are explanations of some important args,
 Normally, other args can be set to default values. See ``params.py`` for more details about argus if needed.
 
     print("""
-    (Apologize to Welkin)                        /
+    (Apology to Welkin)                        /
                                  _,.------....___,.' ',.-.
                               ,-'          _,.--'        |
                             ,'         _.-'              .
