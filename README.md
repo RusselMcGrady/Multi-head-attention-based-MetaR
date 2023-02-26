@@ -79,4 +79,4 @@ Normally, other args can be set to default values. See ``params.py`` for more de
     
 ## Cite
 ```
-Yangshengyan Liu et al., Resource recommendation based on industrial knowledge graph in low-resource conditions, International Journal of Computational Intelligence Systems, 2022.
+Liu, Yangshengyan, et al. "Resource recommendation based on industrial knowledge graph in low-resource conditions." International Journal of Computational Intelligence Systems 15.1 (2022): 42.
