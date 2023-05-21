@@ -1,6 +1,6 @@
 # Intro
 
-This repo gives the code of paper: [**Resource recommendation based on industrial knowledge graph in low-resource conditions**](IJCIS) which propose a Multi-head attention based Meta Relational Learning framework for link prediction. The insight is based on the previous work MetaR by optimizing both the relation-meta learner and the embedding learner: repo (https://github.com/AnselCmy/MetaR).
+This repo gives the code of paper: [**Resource recommendation based on industrial knowledge graph in low-resource conditions**](IJCIS) which propose a Multi-head attention based Meta Relational Learning framework for link prediction, and the code of paper [**Scientific and Technological Resource Sharing Model Based on Few-Shot Relational Learning**](IEICE). The insight is based on the previous work MetaR by optimizing both the relation-meta learner and the embedding learner: repo (https://github.com/AnselCmy/MetaR).
 
 <p align="center"><img src='./imgs/overview.png' width='70%' /></p>
 
